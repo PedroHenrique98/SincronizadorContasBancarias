@@ -6,6 +6,10 @@ import sincronizacaoreceita.Controllers.ArquivoController;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 
+/**
+ * @author pedro_henrique_medeiros<pedro.medeiros.001@acad.pucrs.br>
+ */
+
 @SpringBootApplication
 @RequiredArgsConstructor
 public class SincronizacaoReceita implements CommandLineRunner {
